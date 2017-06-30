@@ -3,3 +3,4 @@ jupyter==1.0.0
 requests==2.18.1
 robobrowser==0.5.3
 pandas==0.20.2
+openpyxl==2.4.8
