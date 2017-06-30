@@ -4,3 +4,4 @@ requests==2.18.1
 robobrowser==0.5.3
 pandas==0.20.2
 openpyxl==2.4.8
+pyOpenSSL==16.2.0
